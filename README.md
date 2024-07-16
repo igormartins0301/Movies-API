@@ -72,8 +72,8 @@ python manage.py runserver
 
 ### Agora, você pode acessar o projeto no seu navegador em 
 ```bash
-http://127.0.0.1:8000/genres
-http://127.0.0.1:8000/actors
-http://127.0.0.1:8000/movies
-http://127.0.0.1:8000/reviews
+http://127.0.0.1:8000/api/v1/genres
+http://127.0.0.1:8000/api/v1/actors
+http://127.0.0.1:8000/api/v1/movies
+http://127.0.0.1:8000/api/v1/reviews
 ```
